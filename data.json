@@ -1,0 +1,402 @@
+[
+  {
+    "id": "SEP",
+    "nomeCompleto": "Sociedade Esportiva Palmeiras",
+    "escudo": "https://logodetimes.com/times/palmeiras/logo-palmeiras-256.png",
+    "fundacao": 1914,
+    "estado": "SP",
+    "estadio": "Allianz Parque",
+    "titulos": 12,
+    "jogadores": ["Weverton", "Gustavo Gómez", "Raphael Veiga", "Dudu"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 1,
+      "pontos": 81,
+      "jogos": 38,
+      "vitorias": 24,
+      "saldoGols": 35,
+      "situacao": "Campeão / Copa Libertadores 2026"
+    }
+  },
+  {
+    "id": "FLA",
+    "nomeCompleto": "Clube de Regatas do Flamengo",
+    "escudo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "fundacao": 1895,
+    "estado": "RJ",
+    "estadio": "Maracanã",
+    "titulos": 8,
+    "jogadores": ["Arrascaeta", "Gerson", "Pedro", "Gabigol"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 2,
+      "pontos": 78,
+      "jogos": 38,
+      "vitorias": 23,
+      "saldoGols": 30,
+      "situacao": "Copa Libertadores 2026"
+    }
+  },
+  {
+    "id": "BOT",
+    "nomeCompleto": "Botafogo de Futebol e Regatas",
+    "escudo": "https://logodetimes.com/times/botafogo/logo-botafogo-256.png",
+    "fundacao": 1904,
+    "estado": "RJ",
+    "estadio": "Estádio Nilton Santos",
+    "titulos": 2,
+    "jogadores": ["Tiquinho Soares", "Júnior Santos", "Marlon Freitas", "Luiz Henrique"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 3,
+      "pontos": 75,
+      "jogos": 38,
+      "vitorias": 21,
+      "saldoGols": 25,
+      "situacao": "Copa Libertadores 2026"
+    }
+  },
+  {
+    "id": "INT",
+    "nomeCompleto": "Sport Club Internacional",
+    "escudo": "https://logodetimes.com/times/internacional/logo-internacional-256.png",
+    "fundacao": 1909,
+    "estado": "RS",
+    "estadio": "Beira-Rio",
+    "titulos": 3,
+    "jogadores": ["Alan Patrick", "Enner Valencia", "Mauricio", "Rochet"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Sport_Club_Internacional",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 4,
+      "pontos": 69,
+      "jogos": 38,
+      "vitorias": 19,
+      "saldoGols": 20,
+      "situacao": "Copa Libertadores 2026"
+    }
+  },
+  {
+    "id": "SAO",
+    "nomeCompleto": "São Paulo Futebol Clube",
+    "escudo": "https://logodetimes.com/times/sao-paulo/logo-sao-paulo-256.png",
+    "fundacao": 1930,
+    "estado": "SP",
+    "estadio": "Morumbi",
+    "titulos": 6,
+    "jogadores": ["Calleri", "Luciano", "Lucas Moura", "Arboleda"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_Futebol_Clube",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 5,
+      "pontos": 65,
+      "jogos": 38,
+      "vitorias": 18,
+      "saldoGols": 15,
+      "situacao": "Copa Libertadores 2026"
+    }
+  },
+  {
+    "id": "FOR",
+    "nomeCompleto": "Fortaleza Esporte Clube",
+    "escudo": "https://logodetimes.com/wp-content/uploads/fortaleza.png",
+    "fundacao": 1918,
+    "estado": "CE",
+    "estadio": "Arena Castelão",
+    "titulos": 0,
+    "jogadores": ["Juan Martín Lucero", "Pochettino", "Marinho", "Tinga"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Fortaleza_Esporte_Clube",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 6,
+      "pontos": 62,
+      "jogos": 38,
+      "vitorias": 17,
+      "saldoGols": 12,
+      "situacao": "Pré-Libertadores 2026"
+    }
+  },
+  {
+    "id": "CAM",
+    "nomeCompleto": "Clube Atlético Mineiro",
+    "escudo": "https://logodetimes.com/times/atletico-mineiro/logo-atletico-mineiro-256.png",
+    "fundacao": 1908,
+    "estado": "MG",
+    "estadio": "Arena MRV",
+    "titulos": 2,
+    "jogadores": ["Hulk", "Paulinho", "Gustavo Scarpa", "Guilherme Arana"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 7,
+      "pontos": 58,
+      "jogos": 38,
+      "vitorias": 16,
+      "saldoGols": 8,
+      "situacao": "Pré-Libertadores 2026"
+    }
+  },
+  {
+    "id": "COR",
+    "nomeCompleto": "Sport Club Corinthians Paulista",
+    "escudo": "https://logodetimes.com/times/corinthians/logo-corinthians-256.png",
+    "fundacao": 1910,
+    "estado": "SP",
+    "estadio": "Neo Química Arena",
+    "titulos": 7,
+    "jogadores": ["Cássio", "Yuri Alberto", "Rodrigo Garro", "Fagner"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 8,
+      "pontos": 55,
+      "jogos": 38,
+      "vitorias": 14,
+      "saldoGols": 5,
+      "situacao": "Copa Sul-Americana 2026"
+    }
+  },
+  {
+    "id": "FLU",
+    "nomeCompleto": "Fluminense Football Club",
+    "escudo": "https://logodetimes.com/times/fluminense/logo-fluminense-256.png",
+    "fundacao": 1902,
+    "estado": "RJ",
+    "estadio": "Maracanã",
+    "titulos": 4,
+    "jogadores": ["Germán Cano", "Jhon Arias", "Ganso", "Marcelo"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Fluminense_Football_Club",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 9,
+      "pontos": 53,
+      "jogos": 38,
+      "vitorias": 14,
+      "saldoGols": 1,
+      "situacao": "Copa Sul-Americana 2026"
+    }
+  },
+  {
+    "id": "CRU",
+    "nomeCompleto": "Cruzeiro Esporte Clube",
+    "escudo": "https://logodetimes.com/times/cruzeiro/logo-cruzeiro-256.png",
+    "fundacao": 1921,
+    "estado": "MG",
+    "estadio": "Mineirão",
+    "titulos": 4,
+    "jogadores": ["Matheus Pereira", "Juan Dinenno", "Arthur Gomes", "William"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 10,
+      "pontos": 51,
+      "jogos": 38,
+      "vitorias": 13,
+      "saldoGols": -3,
+      "situacao": "Copa Sul-Americana 2026"
+    }
+  },
+  {
+    "id": "VIT",
+    "nomeCompleto": "Esporte Clube Vitória",
+    "escudo": "https://logodetimes.com/times/vitoria/logo-vitoria-256.png",
+    "fundacao": 1899,
+    "estado": "BA",
+    "estadio": "Barradão",
+    "titulos": 0,
+    "jogadores": ["Osvaldo", "Matheuzinho", "Wagner Leonardo", "Lucas Arcanjo"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Esporte_Clube_Vit%C3%B3ria",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 11,
+      "pontos": 49,
+      "jogos": 38,
+      "vitorias": 13,
+      "saldoGols": -6,
+      "situacao": "Copa Sul-Americana 2026"
+    }
+  },
+  {
+    "id": "GRE",
+    "nomeCompleto": "Grêmio Foot-Ball Porto Alegrense",
+    "escudo": "https://logodetimes.com/times/gremio/logo-gremio-256.png",
+    "fundacao": 1903,
+    "estado": "RS",
+    "estadio": "Arena do Grêmio",
+    "titulos": 2,
+    "jogadores": ["Luis Suárez", "Villasanti", "Cristaldo", "Kannemann"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 12,
+      "pontos": 47,
+      "jogos": 38,
+      "vitorias": 12,
+      "saldoGols": -8,
+      "situacao": "Copa Sul-Americana 2026"
+    }
+  },
+  {
+    "id": "RBB",
+    "nomeCompleto": "Red Bull Bragantino",
+    "escudo": "https://logodetimes.com/times/red-bull-bragantino/logo-red-bull-bragantino-256.png",
+    "fundacao": 1928,
+    "estado": "SP",
+    "estadio": "Nabi Abi Chedid",
+    "titulos": 0,
+    "jogadores": ["Eduardo Sasha", "Helinho", "Cleiton", "Léo Ortiz"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Red_Bull_Bragantino",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 13,
+      "pontos": 46,
+      "jogos": 38,
+      "vitorias": 11,
+      "saldoGols": -5,
+      "situacao": "Permanece na Série A"
+    }
+  },
+  {
+    "id": "JUV",
+    "nomeCompleto": "Esporte Clube Juventude",
+    "escudo": "https://logodetimes.com/times/juventude/logo-juventude-256.png",
+    "fundacao": 1913,
+    "estado": "RS",
+    "estadio": "Alfredo Jaconi",
+    "titulos": 0,
+    "jogadores": ["Nenê", "Jadson", "Jean Irmer", "Gabriel Vasconcelos"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Esporte_Clube_Juventude",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 14,
+      "pontos": 45,
+      "jogos": 38,
+      "vitorias": 11,
+      "saldoGols": -10,
+      "situacao": "Permanece na Série A"
+    }
+  },
+  {
+    "id": "BAH",
+    "nomeCompleto": "Esporte Clube Bahia",
+    "escudo": "https://logodetimes.com/times/bahia/logo-bahia-256.png",
+    "fundacao": 1931,
+    "estado": "BA",
+    "estadio": "Arena Fonte Nova",
+    "titulos": 2,
+    "jogadores": ["Everton Ribeiro", "Cauly", "Jean Lucas", "Marcos Felipe"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Esporte_Clube_Bahia",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 15,
+      "pontos": 44,
+      "jogos": 38,
+      "vitorias": 10,
+      "saldoGols": -12,
+      "situacao": "Permanece na Série A"
+    }
+  },
+  {
+    "id": "VAS",
+    "nomeCompleto": "Club de Regatas Vasco da Gama",
+    "escudo": "https://logodetimes.com/times/vasco-da-gama/logo-vasco-da-gama-256.png",
+    "fundacao": 1898,
+    "estado": "RJ",
+    "estadio": "São Januário",
+    "titulos": 4,
+    "jogadores": ["Dimitri Payet", "Pablo Vegetti", "Léo Jardim", "Gary Medel"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 16,
+      "pontos": 43,
+      "jogos": 38,
+      "vitorias": 10,
+      "saldoGols": -14,
+      "situacao": "Permanece na Série A"
+    }
+  },
+  {
+    "id": "SAN",
+    "nomeCompleto": "Santos Futebol Clube",
+    "escudo": "https://logodetimes.com/times/santos/logo-santos-256.png",
+    "fundacao": 1912,
+    "estado": "SP",
+    "estadio": "Vila Belmiro",
+    "titulos": 8,
+    "jogadores": ["João Paulo", "Tomás Rincón", "Giuliano", "Guilherme"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Santos_Futebol_Clube",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 17,
+      "pontos": 42,
+      "jogos": 38,
+      "vitorias": 10,
+      "saldoGols": -16,
+      "situacao": "Rebaixado (Série B 2026)"
+    }
+  },
+  {
+    "id": "SPO",
+    "nomeCompleto": "Sport Club do Recife",
+    "escudo": "https://logodetimes.com/times/sport-recife/logo-sport-recife-256.png",
+    "fundacao": 1905,
+    "estado": "PE",
+    "estadio": "Ilha do Retiro",
+    "titulos": 1,
+    "jogadores": ["Vágner Love", "Luciano Juba", "Fabinho", "Rafael Thyere"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Sport_Club_do_Recife",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 18,
+      "pontos": 39,
+      "jogos": 38,
+      "vitorias": 9,
+      "saldoGols": -18,
+      "situacao": "Rebaixado (Série B 2026)"
+    }
+  },
+  {
+    "id": "GOI",
+    "nomeCompleto": "Goiás Esporte Clube",
+    "escudo": "https://logodetimes.com/times/goias/logo-goias-esporte-clube-256.png",
+    "fundacao": 1943,
+    "estado": "GO",
+    "estadio": "Serrinha",
+    "titulos": 0,
+    "jogadores": ["Tadeu", "Lucas Halter", "Guilherme Marques", "Pedro Raul"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Goi%C3%A1s_Esporte_Clube",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 19,
+      "pontos": 34,
+      "jogos": 38,
+      "vitorias": 8,
+      "saldoGols": -22,
+      "situacao": "Rebaixado (Série B 2026)"
+    }
+  },
+  {
+    "id": "CEA",
+    "nomeCompleto": "Ceará Sporting Club",
+    "escudo": "https://logodetimes.com/times/ceara/logo-ceara-256.png",
+    "fundacao": 1914,
+    "estado": "CE",
+    "estadio": "Arena Castelão",
+    "titulos": 0,
+    "jogadores": ["Richard", "Erick", "Guilherme Castilho", "Richardson"],
+    "wikipedia": "https://pt.wikipedia.org/wiki/Cear%C3%A1_Sporting_Club",
+    "posicaoBrasileirao": {
+      "anoAtual": 2025,
+      "posicaoTabela": 20,
+      "pontos": 28,
+      "jogos": 38,
+      "vitorias": 6,
+      "saldoGols": -25,
+      "situacao": "Rebaixado (Série B 2026)"
+    }
+  }
+]
