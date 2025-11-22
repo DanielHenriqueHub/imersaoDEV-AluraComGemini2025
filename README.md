@@ -48,5 +48,5 @@ Este projeto tem finalidade exclusivamente educacional, criado para fins de estu
 
 # Autor
 
-Daniel Henrique
-Desenvolvido durante a Imersão Alura + Google Gemini — 2025.
+Daniel Henrique,
+Projeto desenvolvido durante a Imersão Alura + Google Gemini — 2025.
